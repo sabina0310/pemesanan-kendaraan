@@ -21,7 +21,7 @@ panduan penggunaan aplikasi
 alur pemesanan : admin input pemesanan - atasan menyetujui - konfirmasi admin - pesanan dalam status "Dipesan" - pesanan selesai
 
 admin login :
-- admin dapat memasukkan pemesanan kendaraan dengan memilih kendaraan, pemesan, atasan yang menyetujui, dan tanggal kembali (tanggal pinjam akan otomatis terisi tanggal hari ini)
+- Admin dapat memasukkan pemesanan kendaraan dengan memilih kendaraan, pemesan, atasan yang menyetujui, dan tanggal kembali (tanggal pinjam akan otomatis terisi tanggal hari ini)
 - Kendaraan yang telah dipesan statusnya akan berubah menjadi "Tidak ada" sehingga tidak bisa dipesan.
 - Pesanan yang telah ditambahkan akan memasuki status "Menunggu Persetujuan" oleh atasan yang bersangkutan sesuai yang telah diinputkan oleh admin.
 - Setelah pesanan disetujui oleh atasan maka pesanan memasuki status "Disetujui" admin harus mengo nfirmasi lagi agar pesanan bisa berubah status menjadi "Dipesan"
